@@ -1,2 +1,2 @@
 # PruebaClase
-Escrito por José Antonio desde Windows
+Escrito por JA desde Windows
