@@ -1,2 +1,2 @@
 # PruebaClase
-Primer proyecto de prueba
+Escrito por José Antonio desde Windows
